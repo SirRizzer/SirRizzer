@@ -3,7 +3,7 @@
 
 - 🌱 Сейчас прохожу обучение в: **СберУниверситет, Яндекс.Практикум**
 
-- 👨‍💻 Мои проекты: [Проекты](https://github.com/SirRizzer/Yandex_Practicum_DataScience)
+- 👨‍💻 Мои проекты: [Проекты](https://github.com/SirRizzer?tab=repositories)
 
 - 💬 Связаться со мной:<br> **• [Telegram](https://t.me/SirRizzer)** <br>
 **• Email: pyor.alg@yandex.ru**
